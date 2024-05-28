@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imandrewlux
-- 👀 I’m interested in fun and different front end interactive expirances
+- 👀 I’m interested in fun and different front end interactive experiences
 - 🌱 I’m currently learning threesJS, python & Vue
 - 📫 How to reach me imandrewlux@gmail.com or https://andrewlux.com
 
